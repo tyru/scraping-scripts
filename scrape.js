@@ -4,6 +4,7 @@
 
 const fs = require('fs');
 const puppeteer = require('puppeteer');
+// https://github.com/pipedrive/inbox
 const inbox = require('inbox');
 const iconv = require('iconv');
 const converter = new iconv.Iconv("ISO-2022-JP", "UTF-8");

@@ -1,3 +1,4 @@
+// https://github.com/mscdex/node-imap
 var Imap = require('imap'),
   inspect = require('util').inspect;
 
